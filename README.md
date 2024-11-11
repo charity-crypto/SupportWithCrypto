@@ -1,11 +1,11 @@
 About Us
 
-Welcome to SupportWithCrypto
+Welcome to SWC
 
 DONATE USDT ON TRC-20
 
 
-In a world full of both immense possibilities and profound inequalities, we at [Charity Name Here] believe in harnessing the power of compassion to make a tangible difference. Our mission is simple yet transformative: to bring hope, support, and resources to communities around the world that are facing hardship, whether due to poverty, lack of access to basic services, or social injustice. We stand for a future where everyone has the opportunity to thrive, and we invite you to join us in this mission.
+In a world full of both immense possibilities and profound inequalities, we at SWC believe in harnessing the power of compassion to make a tangible difference. Our mission is simple yet transformative: to bring hope, support, and resources to communities around the world that are facing hardship, whether due to poverty, lack of access to basic services, or social injustice. We stand for a future where everyone has the opportunity to thrive, and we invite you to join us in this mission.
 
 Who We Are
 
@@ -50,7 +50,7 @@ Tether Donation Address: TDqRh565ocm1sHogv15VEVMkoycTq6a1i8
 
 Join Us in Making a Lasting Impact
 
-When you support SupportWithCrypto, you’re not just making a one-time donation—you’re becoming part of a movement dedicated to creating lasting change. We invite you to learn more about each of our focus areas and consider contributing to a cause that resonates with you. Together, we can build a world where no one has to suffer from lack of resources, and everyone has a chance to live a fulfilling life.
+When you support SWC, you’re not just making a one-time donation—you’re becoming part of a movement dedicated to creating lasting change. We invite you to learn more about each of our focus areas and consider contributing to a cause that resonates with you. Together, we can build a world where no one has to suffer from lack of resources, and everyone has a chance to live a fulfilling life.
 
 To make donating even easier, you can scan our Tether donation QR code. Just open the file barcode.png to access our secure donation address instantly.
 
