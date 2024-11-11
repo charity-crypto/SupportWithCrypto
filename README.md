@@ -1,8 +1,11 @@
+About Us
+
 Welcome to SupportWithCrypto
 
 DONATE USDT ON TRC-20
 
-In a world full of both immense possibilities and profound inequalities, we at SupportWithCrypto believe in harnessing the power of compassion to make a tangible difference. Our mission is simple yet transformative: to bring hope, support, and resources to communities around the world that are facing hardship, whether due to poverty, lack of access to basic services, or social injustice. We stand for a future where everyone has the opportunity to thrive, and we invite you to join us in this mission.
+
+In a world full of both immense possibilities and profound inequalities, we at [Charity Name Here] believe in harnessing the power of compassion to make a tangible difference. Our mission is simple yet transformative: to bring hope, support, and resources to communities around the world that are facing hardship, whether due to poverty, lack of access to basic services, or social injustice. We stand for a future where everyone has the opportunity to thrive, and we invite you to join us in this mission.
 
 Who We Are
 
@@ -31,6 +34,14 @@ Read more about each of these initiatives on our website, and see how your suppo
 
 Tether Donation Address: TDqRh565ocm1sHogv15VEVMkoycTq6a1i8
 
+Our Commitment to Transparency and Efficiency
+
+This platform is entirely free of cost. To minimize expenses, we’ve built it using GitHub, allowing us to allocate all funds directly toward charitable efforts. Every donation you make goes entirely to those in need, with nothing held back for platform fees or operational costs.
+
+For every donation received, an act of charity is performed, and we’re committed to keeping you informed every step of the way. Photos and updates of these charitable activities are shared here on this page, so you can see the positive impact of your contributions firsthand.
+
+Tether Donation Address: TDqRh565ocm1sHogv15VEVMkoycTq6a1i8
+
 Why Your Support Matters
 
 Our ability to continue this work depends on the generosity of people like you. Every donation, no matter the size, plays a vital role in helping us reach more communities and touch more lives. We are committed to transparency, showing exactly how each dollar is used to improve the lives of those we serve. Your support empowers us to take action, respond to urgent needs, and provide ongoing care and resources to those who need them most.
@@ -41,6 +52,7 @@ Join Us in Making a Lasting Impact
 
 When you support SupportWithCrypto, you’re not just making a one-time donation—you’re becoming part of a movement dedicated to creating lasting change. We invite you to learn more about each of our focus areas and consider contributing to a cause that resonates with you. Together, we can build a world where no one has to suffer from lack of resources, and everyone has a chance to live a fulfilling life.
 
-With your help, we can make a difference. Explore our projects, choose a cause close to your heart, and join us in this mission to change lives.
+To make donating even easier, you can scan our Tether donation QR code. Just open the file barcode.png to access our secure donation address instantly.
 
-Tether Donation Address: TDqRh565ocm1sHogv15VEVMkoycTq6a1i8
+
+With your help, we can make a difference. Explore our projects, choose a cause close to your heart, and join us in this mission to change lives.
