@@ -2,7 +2,7 @@ Welcome to SupportWithCrypto
 
 DONATE USDT ON TRC-20
 
-In a world full of both immense possibilities and profound inequalities, we at [Charity Name Here] believe in harnessing the power of compassion to make a tangible difference. Our mission is simple yet transformative: to bring hope, support, and resources to communities around the world that are facing hardship, whether due to poverty, lack of access to basic services, or social injustice. We stand for a future where everyone has the opportunity to thrive, and we invite you to join us in this mission.
+In a world full of both immense possibilities and profound inequalities, we at SupportWithCrypto believe in harnessing the power of compassion to make a tangible difference. Our mission is simple yet transformative: to bring hope, support, and resources to communities around the world that are facing hardship, whether due to poverty, lack of access to basic services, or social injustice. We stand for a future where everyone has the opportunity to thrive, and we invite you to join us in this mission.
 
 Who We Are
 SupportWithCrypto is a global charity dedicated to creating impactful and sustainable change in the lives of those most in need. Our team is made up of compassionate individuals who are driven by a shared belief that everyone deserves access to life’s essentials—clean water, nutritious food, healthcare, education, and a healthy environment. We are committed to delivering direct aid, establishing long-term support systems, and empowering individuals to break free from the cycle of poverty.
